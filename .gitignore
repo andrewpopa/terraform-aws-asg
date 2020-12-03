@@ -1,0 +1,5 @@
+.terraform/
+*.pem
+*.p12
+file/
+*.tfstate*
