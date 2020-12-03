@@ -1,2 +1,2 @@
 # terraform-aws-asg
-Auto scaling group module for AWS
+Terraform module to create auto scaling resources on AWS
